@@ -13,6 +13,7 @@ extras_require = {
         "ape-polygon",  # Needed for Polygon integration
         "ape-polygon-zkevm",  # Needed for Polygon ZkEVM integration
         "ape-scroll",  # Needed for Scroll networks integration
+        "ape-sonic",  # Needed for Sonic networks integration
         "ape-infura",  # Needed for live network tests
         "ape-solidity",  # Needed for contract verification tests
         "pytest>=6.0",  # Core testing package
